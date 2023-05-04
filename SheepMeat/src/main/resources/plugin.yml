@@ -1,0 +1,5 @@
+name: SheepMeat
+version: 1.2
+description: Allows sheep to drop their own meat.
+author: xDeeKay
+main: net.dkcraft.sheepmeat.Main
